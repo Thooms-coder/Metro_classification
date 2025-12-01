@@ -43,14 +43,19 @@ These results confirm that cost-share structures alone provide a strong and inte
 
 ## Repository Structure
 
-/project-folder
+📁 project-folder
 │
-├── metro_classification.ipynb # Full analysis, EDA, PCA, modeling pipeline, evaluation
-├── metro_status_paper.pdf # Final IEEE-style research paper
-├── README.md # Overview and documentation
+├── 📄 metro_classification.ipynb
+│      └─ Full analysis: EDA, PCA, modeling pipeline, evaluation
 │
-└── data/
-└── data.csv # County-level cost and demographic dataset
+├── 📄 metro_status_paper.pdf
+│      └─ Final IEEE-style research paper
+│
+├── 📄 README.md
+│      └─ Project overview and documentation
+│
+└── 📁 data
+       └── data.csv   # County-level cost-share and demographic dataset
 
 
 ---
