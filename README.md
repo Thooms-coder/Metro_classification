@@ -46,7 +46,7 @@ These results confirm that cost-share structures alone provide a strong and inte
 ### PCA Projection of Cost-Share Features
 This plot shows how counties cluster in PCA space using only structural expenditure shares and minimal demographic inputs. Metro and non-metro counties form partially separable clusters along PC1, reflecting underlying urban–rural cost gradients.
 
-![PCA Projection](images/pca_projection.png)
+![PCA Projection](images/pca.png)
 
 ---
 
