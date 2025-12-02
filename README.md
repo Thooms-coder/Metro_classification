@@ -127,7 +127,7 @@ It includes:
 - Confusion matrix and ROC curve  
 
 ### 2. View the Research Paper
-The camera-ready IEEE-style report is available here:
+The report is available here:
 
 metro_status_paper.pdf
 
