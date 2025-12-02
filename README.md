@@ -110,6 +110,22 @@ The models were compared using:
 - Balanced vs. unbalanced performance comparison  
 - Combined feature importance across three model families  
 
+### Validation Results
+
+| Rank | Model                     | Validation F1 | Validation ROC AUC |
+|------|---------------------------|---------------|---------------------|
+| 1    | NeuralNet (Unbalanced)    | **0.8908**    | **0.9541**          |
+| 2    | NeuralNet (Balanced)      | 0.8849        | 0.9525              |
+| 3    | SVC (Unbalanced)          | 0.8732        | 0.9291              |
+| 4    | RandomForest (Balanced)   | 0.8414        | 0.9152              |
+| 5    | RandomForest (Unbalanced) | 0.8293        | 0.9120              |
+| 6    | GradientBoosting (Balanced)| 0.8217       | 0.8889              |
+| 7    | GradientBoosting (Unbalanced)| 0.8156     | 0.8851              |
+| 8    | LogReg (Balanced)         | 0.8157        | 0.8776              |
+| 9    | LogReg (Unbalanced)       | 0.8221        | 0.8770              |
+| 10   | DecisionTree (Balanced)   | 0.8107        | 0.8204              |
+| 11   | DecisionTree (Unbalanced) | 0.8146        | 0.8093              |
+
 ---
 
 ## Key Findings
